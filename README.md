@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Abhinav Biju (Abhi) and I am a Fullstack JavaScript Developer, currently studying Java at Florida International University. I look forward to breaking into the software development field with a focus on frontend application development.
 
 <!--
 **AbhiBiju/AbhiBiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
